@@ -1,3 +1,5 @@
 [
-  {"agung" : "Bahran", "eka" : "Kemal"}
+  {"agung" : "Bahran", "eka" : "Kemal"},
+  {"agung" : "Agung Dev", "eka" : "Hallo Kawan"},
+  {"agung" : "Apa Kabar", "eka" : "Wanda Developer"}
 ]
